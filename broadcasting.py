@@ -1,5 +1,5 @@
 # Broadcasting task 4*7 = 28
-# when 1. they are equal, or 2. one of them is 1. If these conditions are not met, a ValueError: operands could not be broadcast together exception is thrown,
+# when 1) they are equal, or 2) one of them is 1. If these conditions are not met, a ValueError: operands could not be broadcast together exception is thrown,
 import numpy as np
 
 a = np.array([4])
